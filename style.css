@@ -1,0 +1,71 @@
+html{
+    background-image: url(images/fondomatrixfinal.gif);
+}
+
+.imagenInicial{
+    text-align: center;
+    
+}
+
+.morfeo{
+    height: 250px;
+}
+
+.main{
+    text-align: center;
+    margin-top: 2em;
+}
+
+.capoTexto{
+    border-radius: 10px 10px 10px 10px;
+    padding: 15px 25px 15px 25px;
+    text-align: center;
+    font-family: 'Matrix', sans-serif;
+    border-width: 3px;
+    border-color: black;                                                
+}
+
+.botonEncriptar{
+    border-radius: 10px 10px 10px 10px;
+    text-align: center;
+    background-color: blue;
+    color: white;
+    margin: 15px 15px 15px 15px;
+    padding: 15px 25px 15px 25px;
+    font-family: 'Matrix', sans-serif;
+    border-color: white;
+    border-width: 5px;
+                                                
+}
+
+.botonEncriptar:hover{
+    border-color: blue;
+    cursor: pointer;
+}
+
+.botonDesencriptar{
+    border-radius: 10px 10px 10px 10px;
+    text-align: center;
+    background-color:red;
+    color: white;
+    margin: 15px 15px 15px 15px;
+    padding: 15px 15px 15px 15px;
+    font-family: 'Matrix', sans-serif;
+    border-width: 5px;
+    border-color: white;                                            
+}
+
+.botonDesencriptar:hover{
+    border-color: red;
+    cursor: pointer;
+}
+
+.capoMensaje{
+    border-radius: 5px 5px 5px 5px;
+    padding: 15px 25px 15px 25px;
+    text-align: center;
+    font-family: "matrix";
+    border-width: 3px;
+    border-color: black;
+}
+
